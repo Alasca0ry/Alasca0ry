@@ -14,9 +14,9 @@
           
           
 ## Ferramentas e Tecnologias
-
- <img align="center" alt="Ana-GitHub" heigth ="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
-
+<div> 
+ <img align="center" alt="Ana-GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+</div>
  <div>
   <a href="https://github.com/Alasca0ry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alasca0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
