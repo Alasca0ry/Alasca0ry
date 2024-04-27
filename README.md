@@ -15,7 +15,7 @@
           
 ## Ferramentas e Tecnologias
 <div> 
- <img align="center" alt="Ana-GitHub" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
+ <img align="center" alt="Ana-GitHub" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
  <div>
   <a href="https://github.com/Alasca0ry">
