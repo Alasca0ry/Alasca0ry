@@ -13,7 +13,7 @@
            
           
           
-## Ferramentas e Tecnologias
+## Ferramentas 
 <div> 
  <img align="center" alt="Ana-GitHub" heigtht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
