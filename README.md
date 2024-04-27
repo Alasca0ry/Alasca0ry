@@ -12,13 +12,11 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
 
-
-<div>
-<a href="https://github.com/Alasca0ry">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Alasca0ry&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/apiAlasca0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <div>
+  <a href="https://github.com/Alasca0ry">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alasca0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alasca0ry&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
 
 
 
