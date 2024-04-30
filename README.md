@@ -1,7 +1,7 @@
 # Olá, me chamo Ana Gabriela! 
 <p>Bem vindo ao meu perfil GitHub ❤️🤗</p> 
 
-## Estou aprendenddo
+<h1>Estou aprendendo</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
