@@ -1,6 +1,8 @@
 # Olá, me chamo Ana Gabriela! 
 <p>Bem vindo ao meu perfil GitHub ❤️🤗</p> 
 
+<p>Como iniciante em desenvolvimento web front-end, concentrei-me em dominar HTML, CSS e JavaScript. Estou praticando em pequenos projetos e testando frameworks como React e Angular. Priorizo ​​design responsivo e acessibilidade. Estou disposto a cometer erros e aprender com eles enquanto continuo minha jornada de aprendizado.</p>
+
 <h1>Estou aprendendo</h1>
 
 <div style="display: inline_block"><br>
