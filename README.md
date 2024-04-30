@@ -2,6 +2,7 @@
 <p>Bem vindo ao meu perfil GitHub ❤️🤗</p> 
 
 <h1>Estou aprendendo</h1>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,7 +11,7 @@
 </div>
 
 
-        
+       
  <div>
   <a href="https://github.com/Alasca0ry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alasca0ry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
