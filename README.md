@@ -21,7 +21,9 @@
 
  ## Contatos:
 
- <div>
-   <a herf = "www.linkedin.com/in/ana-gabriela-santos-6399b028b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "santosanagabriela0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+ <a href="https://www.linkedin.com/in/ana-gabriela-santos-6399b028b" target="_blank">
+    <img src="https://img.shields.io/badge/Marcos%20Lauxen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:santosanagabriela0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/marcoslauxen075@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
