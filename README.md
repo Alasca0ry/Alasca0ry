@@ -19,7 +19,7 @@
 </div>
 
 
- ## Contatos:
+<h2>Contatos:</h2> 
 
  <a href="https://www.linkedin.com/in/ana-gabriela-santos-6399b028b" target="_blank">
     <img src="https://img.shields.io/badge/Ana%20Gabriela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
