@@ -9,10 +9,28 @@ Gosto de aprender constantemente, experimentar novas ferramentas e transformar i
 <h1>Estou aprendendo</h1>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <!-- Front-End -->
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- UX/UI Design -->
+  <img align="center" alt="Ana-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Ana-Canva" height="30" width="40" src="https://img.icons8.com/color/48/000000/canva.png">
+  
+  <!-- Análise de Dados -->
+  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ana-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Ana-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Ana-Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
+  <img align="center" alt="Ana-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
+
+  <!-- No Code / Low Code -->
+  <img align="center" alt="Ana-Airtable" height="30" width="40" src="https://img.icons8.com/color/48/000000/airtable.png">
+  <img align="center" alt="Ana-Notion" height="30" width="40" src="https://img.icons8.com/color/48/000000/notion--v1.png">
+  <img align="center" alt="Ana-PowerApps" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-apps.png">
+  <img align="center" alt="Ana-Zapier" height="30" width="40" src="https://img.icons8.com/color/48/000000/zapier.png">
 </div>
 
 <br>
